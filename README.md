@@ -2,9 +2,10 @@
 
 <item>
 <title>[COLOR silver][B] ARCANJO RENEGADO 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48cce5bc2b04a6c8a7e5139b51ddc6f78d64c77e$nome=EP. 1 AO 4</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2d0448dc066431cb591d9cf788ed8ad061fabb1$nome=EP. 5 AO 6</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:261be955b0aedd8552b056db5622e2f56024bdb7$nome=EP. 7 AO 8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48cce5bc2b04a6c8a7e5139b51ddc6f78d64c77e$nome=EP.1/4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2d0448dc066431cb591d9cf788ed8ad061fabb1$nome=EP.5/6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:261be955b0aedd8552b056db5622e2f56024bdb7$nome=EP.7/8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3a1d4fa69925142fa7a6bf883a4b3d8ade2e9f8$nome=EP.9/10</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/phgHV1brCV5K5TJaaOlUXculg0g.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.</info>
